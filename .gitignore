@@ -1,0 +1,10 @@
+# Ignore IDE files
+.project
+
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear

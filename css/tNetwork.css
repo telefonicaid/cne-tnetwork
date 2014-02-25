@@ -1,0 +1,47 @@
+line.defaultUnidirectionalLink {
+	stroke: #777;
+
+}
+
+line.brokenBidirectionalLink {
+	stroke: black;
+}
+
+
+line.selectedLink {
+	stroke: #0061b0;
+}
+
+line.selectedUnidirectionalLink {
+	stroke: DarkSlateBlue;
+	stroke-width: 3;
+	cursor: pointer;
+}
+
+line.defaultBidirectionalLink {
+	stroke: blue;
+
+}
+
+
+line.defaultIntraDomainLink {
+	stroke: red;
+	stroke-width: 2;
+	cursor: pointer;
+}
+
+text.defaultLabel {
+	font-family: sans-serif, "Arial Black", Gadget, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+	fill: black;	
+}
+
+
+polygon.defaultArrow {
+	stroke: #003399;
+	stroke-width: 0.5;
+	fill: #003399;
+	cursor: pointer;
+}
+
