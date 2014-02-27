@@ -1,4 +1,4 @@
-cne-tNetwork
+tNetwork
 ==============
 
 True Network Library: Javascript library to create and draw network graphs. It is SVG based and HTML 5 compatible.
